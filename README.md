@@ -23,7 +23,7 @@ Ainda há muitas coisas a melhorar, mas este é apenas o início. Quem puder col
    ```
 3. Execute o projeto:
    ```bash
-   python main.py
+   python run.py
    ```
 
 ## Contribuições
